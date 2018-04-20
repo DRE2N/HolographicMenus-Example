@@ -1,0 +1,10 @@
+name: HolographicMenus-Example
+main: de.erethon.holographicmenus.example.HMExample
+version: ${project.version}
+author: Daniel Saukel
+description: ${project.description}
+website: ${project.url}
+depend: [HolographicMenus]
+commands:
+  hmexample:
+    description: Example command
